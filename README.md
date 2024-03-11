@@ -1,15 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/srbrZTU6)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10902779&assignment_repo_type=AssignmentRepo)
-<h1> Assignment 2 </h1>
-<p>Bahruz_Gurbanli_14129_20282</p>
-<a href="https://youtu.be/qII1gMmDNK8">Youtube Link</a>
 <h3> Creating a simple JAVA application to implement File I/O and Filtration </h3>
 
-Dear students,
-
-In this assignment, you need to submit you work to implement File I/O and Filtration (we have partially completed
-similar tasks during the
-classes).
 
 <h3>Task Related - List of the required types</h3>
 <ul>
@@ -123,25 +115,3 @@ When you compile, make sure your .class files are totally isolated from the rest
 Draw the class diagrams including all the classes and their associations. Add the image(s) to the project
 folder so that they are submitted to the repository as well. You may use any tool to draw the diagrams. Make sure you
 submit image format (.jpg or .png).
-
-<h4> Submission related: (5%)</h4>
-<ul>
-    <li> Record a short video not exceeding 5 minutes to explain the code
-        as well as the way users can interact with the end product
-        <ul>Show:
-            <li> main blocks of the code base</li>
-            <li> each of the features mentioned above</li>
-            <li> files that are generated (discuss either in a text editor or in an Excel sheet)</li>
-        </ul>
-    </li>
-    <li> Upload the video to YouTube and share the link by adding it to your README.md file as the first line.</li>
-    <li> Submissions without a video recording will not be graded.</li>
-</ul>
-
-<h4>Important notes:</h4>
-- Codes that do not compile and run for any reason will <strong>not be graded</strong>. Test properly before you submit
-your work.<br />
-- Please, also refer to the course syllabus about the assignments. <br />
-- Each completed feature must be commited and pushed <strong>works submitted in just one or two commits are not
-    acceptable</strong>. <br />
-- This assignment will give you <strong><em>5 %</em></strong> of the overall. <br />
